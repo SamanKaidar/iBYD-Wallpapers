@@ -443,6 +443,84 @@
         "it": "Carbonio scuro",
         "ro": "Carbon închis"
       }
+    },
+    {
+      "id": "ocean_silk_waves",
+      "type": "image",
+      "screens": [
+        "cluster",
+        "passenger"
+      ],
+      "file": "wallpapers/ocean_silk_waves.jpg",
+      "preview": "previews/ocean_silk_waves.jpg",
+      "bytes": 115322,
+      "width": 1920,
+      "height": 720,
+      "sha256": "a76b710cd8f1bd5be182612c73b11378abe3f9e694ea0223f1b4cc0a23c54038",
+      "name": {
+        "en": "Ocean Silk Waves",
+        "ar": "أمواج الحرير المحيطية",
+        "fa": "امواج ابریشمی اقیانوس",
+        "ku": "شەپۆلە ئاوریشمییەکانی زەریا",
+        "fr": "Ondes de soie océanique",
+        "ru": "Шелковые океанские волны",
+        "tr": "Okyanus İpeği Dalgaları",
+        "de": "Ozean-Seidenwellen",
+        "it": "Onde di seta oceanica",
+        "ro": "Valuri de mătase oceanică"
+      }
+    },
+    {
+      "id": "ocean_abyssal_crest",
+      "type": "image",
+      "screens": [
+        "cluster",
+        "passenger"
+      ],
+      "file": "wallpapers/ocean_abyssal_crest.jpg",
+      "preview": "previews/ocean_abyssal_crest.jpg",
+      "bytes": 82392,
+      "width": 1920,
+      "height": 720,
+      "sha256": "aed1c1c5d1f04f2f381e1a9ee6437a683efefd03d1cbeb668023ba0286bbc046",
+      "name": {
+        "en": "Abyssal Crest",
+        "ar": "قمة الأعماق المحيطية",
+        "fa": "تاج مغاک",
+        "ku": "لووتکەی قووڵایی",
+        "fr": "Crête abyssale",
+        "ru": "Абиссальный гребень",
+        "tr": "Derin Uçurum Sırtı",
+        "de": "Abyssaler Kamm",
+        "it": "Cresta abissale",
+        "ro": "Creastă abisală"
+      }
+    },
+    {
+      "id": "forged_carbon_copper",
+      "type": "image",
+      "screens": [
+        "cluster",
+        "passenger"
+      ],
+      "file": "wallpapers/forged_carbon_copper.jpg",
+      "preview": "previews/forged_carbon_copper.jpg",
+      "bytes": 292003,
+      "width": 1920,
+      "height": 720,
+      "sha256": "e1374b743ad2a8eefbc978ada53f5206dc03ce135ba401272f3021418f54a8d3",
+      "name": {
+        "en": "Forged Carbon & Copper",
+        "ar": "كربون مشكل مع نحاس",
+        "fa": "کربن فورج و مس",
+        "ku": "کاربۆنی داڕێژراو و مس",
+        "fr": "Carbone forgé et cuivre",
+        "ru": "Кованый карбон и медь",
+        "tr": "Dövme Karbon ve Bakır",
+        "de": "Geschmiedetes Carbon & Kupfer",
+        "it": "Carbonio forgiato e rame",
+        "ro": "Carbon forjat și cupru"
+      }
     }
   ]
 }
