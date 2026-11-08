@@ -521,6 +521,110 @@
         "it": "Carbonio forgiato e rame",
         "ro": "Carbon forjat și cupru"
       }
+    },
+    {
+      "id": "dynasty_dragon",
+      "type": "image",
+      "screens": [
+        "cluster",
+        "passenger"
+      ],
+      "file": "wallpapers/dynasty_dragon.jpg",
+      "preview": "previews/dynasty_dragon.jpg",
+      "bytes": 138657,
+      "width": 1920,
+      "height": 720,
+      "sha256": "d14bf201a2e83303af5486e896c3584af1b41d9f7ebc1cdd0b947e6944ced883",
+      "name": {
+        "en": "Dynasty Dragon",
+        "ar": "تنين السلالة",
+        "fa": "اژدهای سلسله",
+        "ku": "ئەژدیهای خانەدان",
+        "fr": "Dragon de la dynastie",
+        "ru": "Дракон династии",
+        "tr": "Hanedan Ejderhası",
+        "de": "Dynastie-Drache",
+        "it": "Drago della dinastia",
+        "ro": "Dragonul dinastiei"
+      }
+    },
+    {
+      "id": "contour_gold",
+      "type": "image",
+      "screens": [
+        "cluster",
+        "passenger"
+      ],
+      "file": "wallpapers/contour_gold.jpg",
+      "preview": "previews/contour_gold.jpg",
+      "bytes": 387848,
+      "width": 1920,
+      "height": 720,
+      "sha256": "b1c05cf9f6c1f9579e7a3ae1eb0d702534565d0ecba92ac44f250cb8249f88c5",
+      "name": {
+        "en": "Laser Topo Gold",
+        "ar": "تضاريس ليزر ذهبية",
+        "fa": "توپوگرافی لیزری طلا",
+        "ku": "تۆپۆگرافیای لەیزەری زێڕین",
+        "fr": "Topo laser or",
+        "ru": "Лазерная топография золото",
+        "tr": "Lazer Topo Altın",
+        "de": "Laser-Topo Gold",
+        "it": "Topo laser oro",
+        "ro": "Topo laser aur"
+      }
+    },
+    {
+      "id": "solar_corona",
+      "type": "image",
+      "screens": [
+        "cluster",
+        "passenger"
+      ],
+      "file": "wallpapers/solar_corona.jpg",
+      "preview": "previews/solar_corona.jpg",
+      "bytes": 64228,
+      "width": 1920,
+      "height": 720,
+      "sha256": "7dd93bd3e12a3bd2927d9c3cf5c75aa767170c8ca844b0d59ec294c2c4fec387",
+      "name": {
+        "en": "Solar Corona",
+        "ar": "الإكليل الشمسي",
+        "fa": "تاج خورشیدی",
+        "ku": "تجی ڕۆژ",
+        "fr": "Couronne solaire",
+        "ru": "Солнечная корона",
+        "tr": "Güneş Koronası",
+        "de": "Sonnenkorona",
+        "it": "Corona solare",
+        "ro": "Coroană solară"
+      }
+    },
+    {
+      "id": "wind_cfd",
+      "type": "image",
+      "screens": [
+        "cluster",
+        "passenger"
+      ],
+      "file": "wallpapers/wind_cfd.jpg",
+      "preview": "previews/wind_cfd.jpg",
+      "bytes": 160783,
+      "width": 1920,
+      "height": 720,
+      "sha256": "205138d14b5e48b43d8640f335f0de3e59961028c2b875093f8810ea2c4f7e6c",
+      "name": {
+        "en": "Aero Flow CFD",
+        "ar": "انسياب هوائي أيروديناميكي",
+        "fa": "جریان آیرودینامیک",
+        "ku": "ڕەوتی ئایرۆداینامیک",
+        "fr": "Écoulement aéro CFD",
+        "ru": "Аэродинамический поток CFD",
+        "tr": "Aero Akış CFD",
+        "de": "Aero-Strömung CFD",
+        "it": "Flusso aerodinamico CFD",
+        "ro": "Flux aerodinamic CFD"
+      }
     }
   ]
 }
