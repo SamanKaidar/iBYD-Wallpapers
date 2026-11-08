@@ -1,0 +1,448 @@
+{
+  "schema": 1,
+  "updated": "2026-11-08",
+  "wallpapers": [
+    {
+      "id": "champagne_horizon",
+      "type": "image",
+      "screens": [
+        "cluster",
+        "passenger"
+      ],
+      "file": "wallpapers/champagne_horizon.jpg",
+      "preview": "previews/champagne_horizon.jpg",
+      "bytes": 35131,
+      "width": 1920,
+      "height": 720,
+      "sha256": "7c3c63da0d6db863922925266346dd0daeebf02f18beeabe1f5d2c08c4ac5c18",
+      "name": {
+        "en": "Champagne Horizon",
+        "ar": "أفق الشمبانيا",
+        "fa": "افق شامپاینی",
+        "ku": "ئاسۆی شامپاینی",
+        "fr": "Horizon champagne",
+        "ru": "Горизонт шампань",
+        "tr": "Şampanya ufku",
+        "de": "Champagner-Horizont",
+        "it": "Orizzonte champagne",
+        "ro": "Orizont șampanie"
+      }
+    },
+    {
+      "id": "gold_orb",
+      "type": "image",
+      "screens": [
+        "cluster",
+        "passenger"
+      ],
+      "file": "wallpapers/gold_orb.jpg",
+      "preview": "previews/gold_orb.jpg",
+      "bytes": 34164,
+      "width": 1920,
+      "height": 720,
+      "sha256": "1cdee946dac6af323bd2ec26c033e8a75b72f4d741d3431453563d953c9060bc",
+      "name": {
+        "en": "Gold Orb",
+        "ar": "الكرة الذهبية",
+        "fa": "گوی طلایی",
+        "ku": "گۆی زێڕین",
+        "fr": "Orbe doré",
+        "ru": "Золотая сфера",
+        "tr": "Altın küre",
+        "de": "Goldene Kugel",
+        "it": "Sfera dorata",
+        "ro": "Sferă aurie"
+      }
+    },
+    {
+      "id": "wind_tunnel",
+      "type": "image",
+      "screens": [
+        "cluster",
+        "passenger"
+      ],
+      "file": "wallpapers/wind_tunnel.jpg",
+      "preview": "previews/wind_tunnel.jpg",
+      "bytes": 123496,
+      "width": 1920,
+      "height": 720,
+      "sha256": "e608f275a6143b91c984cab60c72d40e501f2f56c183aab43603e1fa27132299",
+      "name": {
+        "en": "Wind Tunnel",
+        "ar": "نفق الرياح",
+        "fa": "تونل باد",
+        "ku": "تونێلی با",
+        "fr": "Soufflerie",
+        "ru": "Аэродинамическая труба",
+        "tr": "Rüzgar tüneli",
+        "de": "Windkanal",
+        "it": "Galleria del vento",
+        "ro": "Tunel aerodinamic"
+      }
+    },
+    {
+      "id": "carbon_pinstripe",
+      "type": "image",
+      "screens": [
+        "cluster",
+        "passenger"
+      ],
+      "file": "wallpapers/carbon_pinstripe.jpg",
+      "preview": "previews/carbon_pinstripe.jpg",
+      "bytes": 114626,
+      "width": 1920,
+      "height": 720,
+      "sha256": "6a09194a40b42d0c2d859543408606dc3309f7589249a407e96b19725f37ba6b",
+      "name": {
+        "en": "Carbon Pinstripe",
+        "ar": "كربون بخط ذهبي",
+        "fa": "کربن خط‌دار",
+        "ku": "کاربۆنی هێڵدار",
+        "fr": "Carbone filet doré",
+        "ru": "Карбон с полосой",
+        "tr": "Karbon çizgili",
+        "de": "Carbon-Nadelstreifen",
+        "it": "Carbonio gessato",
+        "ro": "Carbon cu dungă"
+      }
+    },
+    {
+      "id": "night_blue",
+      "type": "image",
+      "screens": [
+        "cluster",
+        "passenger"
+      ],
+      "file": "wallpapers/night_blue.jpg",
+      "preview": "previews/night_blue.jpg",
+      "bytes": 95531,
+      "width": 1920,
+      "height": 720,
+      "sha256": "a8c6e082c171035195d290cdb390914d0ace7fbca64ef36c0174c2fd99cea2d8",
+      "name": {
+        "en": "Night Blue",
+        "ar": "ليل أزرق",
+        "fa": "آبی شب",
+        "ku": "شینی شەو",
+        "fr": "Bleu nuit",
+        "ru": "Ночная синева",
+        "tr": "Gece Mavisi",
+        "de": "Nachtblau",
+        "it": "Blu notte",
+        "ro": "Albastru de noapte"
+      }
+    },
+    {
+      "id": "blue_hour",
+      "type": "image",
+      "screens": [
+        "cluster",
+        "passenger"
+      ],
+      "file": "wallpapers/blue_hour.jpg",
+      "preview": "previews/blue_hour.jpg",
+      "bytes": 69588,
+      "width": 1920,
+      "height": 720,
+      "sha256": "c0840f84a11205c7ec599b1af7345230311fb6eb4489e43837a37cfff56c404d",
+      "name": {
+        "en": "Blue Hour",
+        "ar": "الساعة الزرقاء",
+        "fa": "ساعت آبی",
+        "ku": "کاتژمێری شین",
+        "fr": "Heure bleue",
+        "ru": "Синий час",
+        "tr": "Mavi Saat",
+        "de": "Blaue Stunde",
+        "it": "Ora blu",
+        "ro": "Ora albastră"
+      }
+    },
+    {
+      "id": "velocity",
+      "type": "image",
+      "screens": [
+        "cluster",
+        "passenger"
+      ],
+      "file": "wallpapers/velocity.jpg",
+      "preview": "previews/velocity.jpg",
+      "bytes": 121463,
+      "width": 1920,
+      "height": 720,
+      "sha256": "6d15bf9cbb789c5ad215c89bfae443c1f640ff3adb2665c4dd77c4af80c83fe7",
+      "name": {
+        "en": "Velocity",
+        "ar": "السرعة",
+        "fa": "سرعت",
+        "ku": "خێرایی",
+        "fr": "Vélocité",
+        "ru": "Скорость",
+        "tr": "Hız",
+        "de": "Velocity",
+        "it": "Velocità",
+        "ro": "Viteză"
+      }
+    },
+    {
+      "id": "ember_dusk",
+      "type": "image",
+      "screens": [
+        "cluster",
+        "passenger"
+      ],
+      "file": "wallpapers/ember_dusk.jpg",
+      "preview": "previews/ember_dusk.jpg",
+      "bytes": 89879,
+      "width": 1920,
+      "height": 720,
+      "sha256": "cb180f56e6ba01cc38badb5171bb3eab0d5a1544e7512617c93fff9441a6f79f",
+      "name": {
+        "en": "Ember Dusk",
+        "ar": "غسق الجمر",
+        "fa": "غروب اخگر",
+        "ku": "ئێوارەی پشکۆ",
+        "fr": "Crépuscule braise",
+        "ru": "Тлеющие сумерки",
+        "tr": "Kor Alacakaranlığı",
+        "de": "Glutdämmerung",
+        "it": "Crepuscolo brace",
+        "ro": "Amurg de jar"
+      }
+    },
+    {
+      "id": "aurora",
+      "type": "image",
+      "screens": [
+        "cluster",
+        "passenger"
+      ],
+      "file": "wallpapers/aurora.jpg",
+      "preview": "previews/aurora.jpg",
+      "bytes": 76871,
+      "width": 1920,
+      "height": 720,
+      "sha256": "406d08cf0e46cd6f0e86f4fb3cbbee85de493ffb229d475afeed0a7ef9b6f6a0",
+      "name": {
+        "en": "Aurora",
+        "ar": "الشفق القطبي",
+        "fa": "شفق قطبی",
+        "ku": "ئەورۆرا",
+        "fr": "Aurore",
+        "ru": "Северное сияние",
+        "tr": "Aurora",
+        "de": "Polarlicht",
+        "it": "Aurora",
+        "ro": "Auroră"
+      }
+    },
+    {
+      "id": "night_highway",
+      "type": "image",
+      "screens": [
+        "cluster",
+        "passenger"
+      ],
+      "file": "wallpapers/night_highway.jpg",
+      "preview": "previews/night_highway.jpg",
+      "bytes": 81653,
+      "width": 1920,
+      "height": 720,
+      "sha256": "4738b0104b99444ad694ab3a7a3f7dd7379cf198a749354b5019dbeae4cc084c",
+      "name": {
+        "en": "Night Highway",
+        "ar": "طريق الليل",
+        "fa": "بزرگراه شب",
+        "ku": "ڕێگای شەو",
+        "fr": "Autoroute de nuit",
+        "ru": "Ночная трасса",
+        "tr": "Gece Otoyolu",
+        "de": "Nachtautobahn",
+        "it": "Autostrada notturna",
+        "ro": "Autostradă nocturnă"
+      }
+    },
+    {
+      "id": "titanium_line",
+      "type": "image",
+      "screens": [
+        "cluster",
+        "passenger"
+      ],
+      "file": "wallpapers/titanium_line.jpg",
+      "preview": "previews/titanium_line.jpg",
+      "bytes": 101203,
+      "width": 1920,
+      "height": 720,
+      "sha256": "2c3b11444ec9e7921a02891d52e974197afc86bd450e37c68218cfd4faf6751a",
+      "name": {
+        "en": "Titanium Line",
+        "ar": "خط التيتانيوم",
+        "fa": "خط تیتانیوم",
+        "ku": "هێڵی تیتانیۆم",
+        "fr": "Ligne titane",
+        "ru": "Титановая линия",
+        "tr": "Titanyum Çizgi",
+        "de": "Titanlinie",
+        "it": "Linea titanio",
+        "ro": "Linie de titan"
+      }
+    },
+    {
+      "id": "graphite_mesh",
+      "type": "image",
+      "screens": [
+        "cluster",
+        "passenger"
+      ],
+      "file": "wallpapers/graphite_mesh.jpg",
+      "preview": "previews/graphite_mesh.jpg",
+      "bytes": 170437,
+      "width": 1920,
+      "height": 720,
+      "sha256": "d818af68a34632ee28d12bd6bdb07cc4f112cd45496639b402900b4dcff03240",
+      "name": {
+        "en": "Graphite Mesh",
+        "ar": "شبكة الجرافيت",
+        "fa": "توری گرافیت",
+        "ku": "تۆڕی گرافیت",
+        "fr": "Maille graphite",
+        "ru": "Графитовая сетка",
+        "tr": "Grafit Ağ",
+        "de": "Graphitgitter",
+        "it": "Maglia grafite",
+        "ro": "Plasă de grafit"
+      }
+    },
+    {
+      "id": "cyber_horizon",
+      "type": "image",
+      "screens": [
+        "cluster",
+        "passenger"
+      ],
+      "file": "wallpapers/cyber_horizon.jpg",
+      "preview": "previews/cyber_horizon.jpg",
+      "bytes": 110589,
+      "width": 1920,
+      "height": 720,
+      "sha256": "bf3aea79d1c41c62254c451fdccaa8a2d3f271d46a330c5976fc7b4496ff6e82",
+      "name": {
+        "en": "Cyber Horizon",
+        "ar": "أفق سيبراني",
+        "fa": "افق سایبری",
+        "ku": "ئاسۆی سایبەر",
+        "fr": "Horizon cyber",
+        "ru": "Кибергоризонт",
+        "tr": "Siber Ufuk",
+        "de": "Cyber-Horizont",
+        "it": "Orizzonte cyber",
+        "ro": "Orizont cyber"
+      }
+    },
+    {
+      "id": "midnight_horizon",
+      "type": "image",
+      "screens": [
+        "cluster",
+        "passenger"
+      ],
+      "file": "wallpapers/midnight_horizon.jpg",
+      "preview": "previews/midnight_horizon.jpg",
+      "bytes": 72609,
+      "width": 1920,
+      "height": 720,
+      "sha256": "300eede854a771dd5ff786edaf8cca657b0a466835bf5ef0d31c523cc6fad070",
+      "name": {
+        "en": "Midnight Horizon",
+        "ar": "أفق منتصف الليل",
+        "fa": "افق نیمه‌شب",
+        "ku": "ئاسۆی نیوەشەو",
+        "fr": "Horizon minuit",
+        "ru": "Полуночный горизонт",
+        "tr": "Gece Yarısı Ufku",
+        "de": "Mitternachtshorizont",
+        "it": "Orizzonte di mezzanotte",
+        "ro": "Orizont de miezul nopții"
+      }
+    },
+    {
+      "id": "stealth_silhouette",
+      "type": "image",
+      "screens": [
+        "cluster",
+        "passenger"
+      ],
+      "file": "wallpapers/stealth_silhouette.jpg",
+      "preview": "previews/stealth_silhouette.jpg",
+      "bytes": 54919,
+      "width": 1920,
+      "height": 720,
+      "sha256": "0f68cef550074559970716b55a84b3d56a98c64952635df07f2351270174e83e",
+      "name": {
+        "en": "Stealth Silhouette",
+        "ar": "شبح متخفي",
+        "fa": "سایه پنهان",
+        "ku": "سێبەری نەبینراو",
+        "fr": "Silhouette furtive",
+        "ru": "Невидимый силуэт",
+        "tr": "Hayalet Silüet",
+        "de": "Stealth-Silhouette",
+        "it": "Sagoma stealth",
+        "ro": "Siluetă invizibilă"
+      }
+    },
+    {
+      "id": "cyber_grid",
+      "type": "image",
+      "screens": [
+        "cluster",
+        "passenger"
+      ],
+      "file": "wallpapers/cyber_grid.jpg",
+      "preview": "previews/cyber_grid.jpg",
+      "bytes": 91689,
+      "width": 1920,
+      "height": 720,
+      "sha256": "0fc8c6b7ff6332f0ff1b604b2e9bae4d6221dba829559b7a4c8b1df538992973",
+      "name": {
+        "en": "Cyber Grid",
+        "ar": "شبكة سيبرانية",
+        "fa": "شبکه سایبری",
+        "ku": "تۆڕی سایبەر",
+        "fr": "Grille cyber",
+        "ru": "Киберсетка",
+        "tr": "Siber Izgara",
+        "de": "Cyber-Raster",
+        "it": "Griglia cyber",
+        "ro": "Grilă cyber"
+      }
+    },
+    {
+      "id": "dark_carbon",
+      "type": "image",
+      "screens": [
+        "cluster",
+        "passenger"
+      ],
+      "file": "wallpapers/dark_carbon.jpg",
+      "preview": "previews/dark_carbon.jpg",
+      "bytes": 162296,
+      "width": 1920,
+      "height": 720,
+      "sha256": "60e90fb3ea43a02ab427512faf1ae619d49ec38c7e88c6ef531a12c9b2cf8164",
+      "name": {
+        "en": "Dark Carbon",
+        "ar": "كربون داكن",
+        "fa": "کربن تیره",
+        "ku": "کاربۆنی تاریک",
+        "fr": "Carbone sombre",
+        "ru": "Тёмный карбон",
+        "tr": "Koyu Karbon",
+        "de": "Dunkles Carbon",
+        "it": "Carbonio scuro",
+        "ro": "Carbon închis"
+      }
+    }
+  ]
+}
